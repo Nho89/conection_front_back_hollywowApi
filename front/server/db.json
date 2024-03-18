@@ -1,0 +1,60 @@
+{
+  "posters": [
+    {
+      "imageUrl": "https://popcornusa.s3.amazonaws.com/movies/650/8164-0-Amlie.jpg",
+      "name": "AMELIE",
+      "director": " Jean-Pierre Jeunet",
+      "year": 2001,
+      "id": "1"
+    },
+    {
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+      "name": "EL PADRINO",
+      "director": "Francis Ford Coppola",
+      "year": 1972,
+      "id": "2"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/originals/b7/ef/46/b7ef46889d98ab8840058835d3f6cfb9.jpg",
+      "name": "REGRESO AL FUTURO",
+      "director": "Robert Zemeckis",
+      "year": 1985,
+      "id": "3"
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/L9AAAOSwTg9dd8Tj/s-l1600.jpg",
+      "name": "CRONICAS DE NARNIA",
+      "director": "Andrew Adamson",
+      "year": 2005,
+      "id": "4"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/originals/b3/87/9a/b3879a322f8317b4a48d90ebc5e8988a.jpg",
+      "name": "PULP FICTION",
+      "director": "Quentin Tarantino",
+      "year": 1994,
+      "id": "5"
+    },
+    {
+      "imageUrl": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1280x1280/products/89058/93685/Joker-2019-Final-Style-steps-Poster-buy-original-movie-posters-at-starstills__62518.1572351165.jpg?c=2?imbypass=on",
+      "name": "JOKER",
+      "director": "Todd Phillips",
+      "year": 2019,
+      "id": "6"
+    },
+    {
+      "imageUrl": "https://image.tmdb.org/t/p/original/rNDxz7Y8rRigoLqa6Iy7noNp5D9.jpg",
+      "name": "CAZAFANTASMAS",
+      "director": "Ivan Reitman",
+      "year": "1984",
+      "id": "899c"
+    },
+    {
+      "imageUrl": "https://media.services.cinergy.ch/media/box1600/01c0b6f75b9cc6c57ad951e15d822d66b060955a.jpg",
+      "name": "AFTERSUN",
+      "director": "Charlotte Wells",
+      "year": "2022",
+      "id": "bdd7"
+    }
+  ]
+}

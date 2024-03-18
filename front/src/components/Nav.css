@@ -1,0 +1,40 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.logo-container {
+    max-width: 100%;
+    height: auto;
+}
+
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+
+@media only screen and (max-width: 900px) {
+    .nav {
+        justify-content: space-around;
+        align-items: center;
+        padding: 1% 5%; /* Ajusta el padding según tus necesidades */
+    }
+
+    .logo-container {
+        max-width: 80%;
+        height: auto;
+    }
+    
+    .logo {
+        width: 60%;
+        height: auto;
+    }
+    
+    .right-section {
+        margin-top: 10px; 
+}
+}

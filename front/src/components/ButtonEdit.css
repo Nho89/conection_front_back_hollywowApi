@@ -1,0 +1,21 @@
+.button-edit{
+  color: #9C325C ;
+  background-color:#CEA436;
+  padding: 1% 17px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: bold;
+  border: 2px solid #9C325C;
+  text-decoration: none;
+  margin-top: 7%;
+} 
+
+@media only screen and (max-width: 900px) {
+  .button-edit {
+    padding: 4px 16px;
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: 6%;
+  }
+}
