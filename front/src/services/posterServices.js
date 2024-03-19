@@ -38,7 +38,8 @@ export const updatePoster = async  (id, editedPoster) => {
 //Petición DELETE
 
 export const deletePoster = async (id) => {
+    if(confirm("¿Estás seguro que quieres eliminar este poster?") === true){
     const result = await fetch(`http://localhost:5000/api/${id}`, {
-    method: 'DELETE'});
+    method: 'DELETE'});}
     return result;
 };
