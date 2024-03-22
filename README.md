@@ -4,6 +4,7 @@ In this repository, we have merged the Client and Server parts to have a complet
 
 1. Clone the Repository:
 - Copy code in your terminal:
+  ```bash
   $ https://github.com/Nho89/conection_front_back_hollywowApi.git
 
 2. Create the file .env.
@@ -11,6 +12,8 @@ In this repository, we have merged the Client and Server parts to have a complet
 3. Install Dependencies:
 In this project, you need to enter each folder: cd front and cd back, and within each one.
 - copy the following code:
+  ```bash
   $ npm i
 - Then start the server for each one with the following code:
+  ```bash
   $ npm run dev
